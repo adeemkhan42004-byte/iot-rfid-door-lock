@@ -37,4 +37,4 @@ This project is an IoT-based smart door locking system built using ESP8266 and R
 - Camera-based logging system
 
 ## Author
-Adeem Khan
+Mohd Adeem Khan
